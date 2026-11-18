@@ -1,0 +1,61 @@
+id,sms,is_transaction,type,amount,merchant,date,mode,status,category
+1,"Dear UPI user A/C X8842 debited by 180.00 on date 02Nov26 trf to ZOMATO Refno 430712345678. If not u? call 1800111109. -SBI",True,debit,180,Zomato,2026-11-02,UPI,success,Food & Dining
+2,"Sent Rs.350.00 From HDFC Bank A/C *4417 To UBER INDIA On 03/11/26 Ref 430823456789 Not You? Call 18002586161/SMS BLOCK UPI to 7308080808",True,debit,350,Uber,2026-11-03,UPI,success,Travel & Transport
+3,"ICICI Bank Acct XX219 debited for Rs 1,240.00 on 04-Nov-26; BLINKIT credited. UPI:430934567890. Call 18002662 for dispute. SMS BLOCK 219 to 9215676766.",True,debit,1240,Blinkit,2026-11-04,UPI,success,Groceries
+4,"INR 89.00 debited from A/c no. XX5521 on 05-11-26 14:22:10 IST UPI/P2M/431045678901/RAPIDO. Not you? SMS BLOCKUPI Cust ID to 919951860002 - Axis Bank",True,debit,89,Rapido,2026-11-05,UPI,success,Travel & Transport
+5,"Sent Rs.2,500.00 from Kotak Bank AC X7730 to rahul.verma@okaxis on 05-11-26.UPI Ref 431156789012. Not you, https://kotak.com/KBANKT/Fraud",True,debit,2500,rahul.verma@okaxis,2026-11-05,UPI,success,Transfers to People
+6,"A/c XX6034 debited INR 60.00 Dt 06-11-26 10:15 thru UPI:431267890123.Bal INR 8,412.55 Not u?Fwd this SMS to 9264092640 to block UPI.-PNB",True,debit,60,,2026-11-06,UPI,success,Other
+7,"Rs.450.00 Dr. from A/C XXXXXX2291 and Cr. to swiggy@axisbank. Ref:431378901234. AvlBal:Rs15,220.10(2026:11:06 20:41:09). Not you? Call 18005700/5000-BOB",True,debit,450,Swiggy,2026-11-06,UPI,success,Food & Dining
+8,"Paid Rs. 199 to JIO via PhonePe UPI on 07 Nov 2026. Txn ID T2611071234567890. Bal: Rs. 4,311.20",True,debit,199,Jio,2026-11-07,UPI,success,Bills & Recharges
+9,"Your a/c XX9087 is debited by Rs.1,200.00 on 08Nov26 and credited to PRIYA SHARMA (UPI Ref no 431489012345). -SBI",True,debit,1200,Priya Sharma,2026-11-08,UPI,success,Transfers to People
+10,"Sent Rs.75.00 From HDFC Bank A/C *4417 To CHAI POINT On 08/11/26 Ref 431590123456 Not You? Call 18002586161/SMS BLOCK UPI to 7308080808",True,debit,75,Chai Point,2026-11-08,UPI,success,Food & Dining
+11,"INR 640.00 debited from A/c no. XX5521 on 09-11-26 18:02:44 IST UPI/P2M/431601234567/DMART. Not you? SMS BLOCKUPI Cust ID to 919951860002 - Axis Bank",True,debit,640,DMart,2026-11-09,UPI,success,Groceries
+12,"Rs.15,000.00 debited from A/c XX9087 on 01-11-26 to VPA nobroker@icici (UPI Ref No 430590123111). If not done by you, call 1800111109 -SBI",True,debit,15000,NoBroker,2026-11-01,UPI,success,Rent & Housing
+13,"ICICI Bank Acct XX219 debited for Rs 520.00 on 10-Nov-26; APOLLO PHARMACY credited. UPI:431712345670. Call 18002662 for dispute. SMS BLOCK 219 to 9215676766.",True,debit,520,Apollo Pharmacy,2026-11-10,UPI,success,Health
+14,"Rs.30.00 Dr. from A/C XXXXXX2291 and Cr. to paytmqr28100505@paytm. Ref:431823456781. AvlBal:Rs14,740.10(2026:11:11 09:12:45). Not you? Call 18005700/5000-BOB",True,debit,30,paytmqr28100505@paytm,2026-11-11,UPI,success,Other
+15,"Spent Rs.2399 On HDFC Bank Card 7788 At FLIPKART INTERNET On 2026-11-02:21:10:05.Not You? To Block+Reissue Call 18002586161/SMS BLOCK CC 7788 to 7308080808",True,debit,2399,Flipkart,2026-11-02,CARD,success,Shopping
+16,"INR 649.00 spent using ICICI Bank Card XX4005 on 03-Nov-26 on NETFLIX. Avl Limit: INR 1,12,351.00. If not you, call 1800 2662/SMS BLOCK 4005 to 9215676766.",True,debit,649,Netflix,2026-11-03,CARD,success,Entertainment & Subscriptions
+17,"Spent INR 3,150.75 Axis Bank Card no. XX8123 06-11-26 13:45:20 IST MAKEMYTRIP Avl Lmt INR 96,849.25 Not you? SMS BLOCK 8123 to 919951860002",True,debit,3150.75,MakeMyTrip,2026-11-06,CARD,success,Travel & Transport
+18,"Dear Customer, transaction number 631012345678 for Rs.899.00 by SBI Debit Card X3345 done at PYU*MYNTRA DESIGNS on 07Nov26 at 16:20:11. Your updated available balance is Rs.18,240.60. If not done by you, forward this SMS to 7400165218 -SBI",True,debit,899,Myntra,2026-11-07,CARD,success,Shopping
+19,"Rs.1,675.00 spent via Kotak Debit Card XX9912 at STARBUCKS COFFEE on 09/11/2026. Avl bal Rs.33,105.45. Not you? Call 18602662666",True,debit,1675,Starbucks,2026-11-09,CARD,success,Food & Dining
+20,"Rs.560.00 debited from HDFC Bank Debit Card ending 5566 at BOOKMYSHOW on 10-11-26. Avl bal: Rs.27,430.00. Not you? Call 18002586161",True,debit,560,BookMyShow,2026-11-10,CARD,success,Entertainment & Subscriptions
+21,"Update! INR 52,000.00 deposited in HDFC Bank A/c XX4417 on 01-NOV-26 for NEFT Cr-UTIB0000123-INFOTECH SOLUTIONS PVT LTD-SALARY OCT. Avl bal INR 61,540.20. Cheque deposits in A/C are subject to clearing",True,credit,52000,Infotech Solutions Pvt Ltd,2026-11-01,NEFT_IMPS,success,Income
+22,"Dear SBI User, your A/c X9087-credited by Rs.500 on 04Nov26 transfer from ANKIT GUPTA Ref No 430998765432 -SBI",True,credit,500,Ankit Gupta,2026-11-04,OTHER,success,Transfers to People
+23,"Received Rs.1,250.00 in your Kotak Bank AC X7730 from sneha.iyer@okhdfcbank on 06-11-26.UPI Ref:431087654321.",True,credit,1250,sneha.iyer@okhdfcbank,2026-11-06,UPI,success,Transfers to People
+24,"Dear Customer, Interest of Rs.212.00 has been credited to your SB A/c XX6034 on 31-10-26. Avl Bal Rs.8,624.55 -PNB",True,credit,212,,2026-10-31,OTHER,success,Income
+25,"INR 8,000.00 credited to A/c no. XX5521 on 08-11-26 at 11:05:32 IST. Info- IMPS/P2A/631312345678/MOHAN DAS/HDFCBANK. Avl Bal- INR 19,345.10 - Axis Bank",True,credit,8000,Mohan Das,2026-11-08,NEFT_IMPS,success,Transfers to People
+26,"Rs.25.00 cashback from CRED credited to your ICICI Bank Acct XX219 on 09-Nov-26. Avl Bal Rs.6,480.75",True,credit,25,CRED,2026-11-09,OTHER,success,Refund
+27,"Dear Customer, Rs.2,000.00 withdrawn at SBI ATM S1BW000345 from A/c X9087 on 03Nov26. Transaction Number 6307. Available Balance Rs.14,250.00. If not withdrawn by you, forward this SMS to 7400165218 -SBI",True,debit,2000,,2026-11-03,ATM,success,Cash Withdrawal
+28,"Rs.5000 withdrawn from HDFC Bank A/c XX4417 at ATM +MG ROAD BANGALORE on 07-11-26. Avl bal: Rs.56,540.20. Not you? Call 18002586161",True,debit,5000,,2026-11-07,ATM,success,Cash Withdrawal
+29,"INR 1,500.00 withdrawn from A/c no. XX5521 at ATM ID SPCN01234 on 10-11-26 20:15:03 IST. Avl Bal INR 17,845.10. Not you? Call 18604195555 - Axis Bank",True,debit,1500,,2026-11-10,ATM,success,Cash Withdrawal
+30,"Rs.199.00 has been debited from your A/c XX3318 towards your e-mandate for NETFLIX on 05-Nov-26 (UMN: a1b2c3d4@okhdfcbank). Avl Bal Rs.9,801.00 -HDFC Bank",True,debit,199,Netflix,2026-11-05,AUTOPAY,success,Entertainment & Subscriptions
+31,"Your UPI AutoPay payment of Rs.119.00 to SPOTIFY INDIA has been successfully debited from Kotak Bank AC X7730 on 08-11-26. UPI Ref 431298761234.",True,debit,119,Spotify,2026-11-08,AUTOPAY,success,Entertainment & Subscriptions
+32,"INR 2,000.00 debited from A/c no. XX5521 on 10-11-26 towards NACH/ACH-DR-GROWW MF SIP-BSE0000012. Avl Bal INR 15,845.10 - Axis Bank",True,debit,2000,Groww,2026-11-10,AUTOPAY,success,Investments
+33,"Refund of Rs.1,299.00 from AMAZON has been processed to your ICICI Bank Card XX4005 on 05-Nov-26.",True,credit,1299,Amazon,2026-11-05,CARD,success,Refund
+34,"Dear Customer, refund of INR 349.00 from SWIGGY credited to your A/c XX219 on 07-Nov-26. UPI:431487650987 -ICICI Bank",True,credit,349,Swiggy,2026-11-07,UPI,success,Refund
+35,"Rs.4,500.00 refunded by IRCTC to your SBI A/c X9087 on 11Nov26 against cancelled ticket. Ref 631598761234",True,credit,4500,IRCTC,2026-11-11,OTHER,success,Refund
+36,"Txn of Rs.1,100.00 on HDFC Bank Card x7788 at BIGBASKET was declined on 04-11-26 due to insufficient limit. Not you? Call 18002586161",True,debit,1100,BigBasket,2026-11-04,CARD,failed,Groceries
+37,"UPI payment of Rs 240.00 to OLA CABS failed on 06-Nov-26. Any amount debited will be reversed in 3-5 days. Ref 431687659876 -ICICI Bank",True,debit,240,Ola,2026-11-06,UPI,failed,Travel & Transport
+38,"Dear Customer, your ATM withdrawal of Rs.3,000.00 on 08Nov26 was unsuccessful. If amount is debited, it will be credited back within 5 working days. -SBI",True,debit,3000,,2026-11-08,ATM,failed,Cash Withdrawal
+39,"Rs.240.00 reversed to your ICICI Bank Acct XX219 on 08-Nov-26 against failed UPI txn Ref 431687659876.",True,credit,240,,2026-11-08,UPI,reversed,Refund
+40,"Dear Customer, Rs.560.00 debited from your A/c XX4417 on 09-11-26 for a failed UPI transaction to zepto@icici has been reversed and credited back to your account. -HDFC Bank",True,credit,560,Zepto,2026-11-09,UPI,reversed,Refund
+41,"123456 is your OTP for txn of INR 2,499.00 at AMAZON on HDFC Bank Card ending 7788. Valid for 10 mins. Do not share OTP with anyone.",False,,,,,,,
+42,"Your OTP for UPI registration is 884213. Do not share it with anyone. -SBI",False,,,,,,,
+43,"OTP for login to ICICI Bank iMobile is 550912. OTPs are SECRET. DO NOT disclose it to anyone. Bank NEVER asks for OTP.",False,,,,,,,
+44,"Use verification code 771204 to verify your PhonePe account. Never share this code with anyone.",False,,,,,,,
+45,"731905 is the One Time Password for your payment of Rs.649.00 to NETFLIX from Axis Bank Card XX8123. This OTP is valid for 5 minutes.",False,,,,,,,
+46,"Get 20% cashback upto Rs.200 on your first UPI payment with Paytm! Offer valid till 30 Nov. T&C apply. Click here to pay now: https://p.paytm.me/xyz",False,,,,,,,
+47,"Congratulations! You have won a voucher worth Rs.5,000. Claim now at http://bit.ly/claim-win before it expires.",False,,,,,,,
+48,"BIG BILLION DAYS are back! Flat Rs.1,500 off on orders above Rs.9,999 with HDFC Bank Credit Cards on Flipkart. Shop now.",False,,,,,,,
+49,"Swiggy: Craving biryani? Flat Rs.125 OFF on orders above Rs.249. Use code TREAT125. Order now!",False,,,,,,,
+50,"Recharge with Rs.299 and get 2GB/day for 28 days + unlimited calls. Recharge now on MyJio app. -Jio",False,,,,,,,
+51,"Your SIP of Rs.2,000.00 in GROWW MF is due on 10-Nov-26 and will be debited from A/c XX5521 via NACH. Please maintain sufficient balance. - Axis Bank",False,,,,,,,
+52,"UPI AutoPay reminder: Rs.119.00 will be debited from your Kotak Bank AC X7730 for SPOTIFY INDIA on 08-11-26. To manage mandates, visit the Kotak app.",False,,,,,,,
+53,"You have successfully created a UPI mandate of Rs.649.00 towards NETFLIX from HDFC Bank A/c XX4417. Amount will be debited as per mandate frequency. UMN 9f8e7d6c@hdfcbank",False,,,,,,,
+54,"Available balance in your SBI A/c X9087 as on 11Nov26 is Rs.9,750.00. Download YONO for instant banking. -SBI",False,,,,,,,
+55,"Alert: Balance in your Kotak Bank AC X7730 has fallen below the minimum average balance of Rs.10,000. Current balance: Rs.6,385.00. Please fund your account to avoid charges.",False,,,,,,,
+56,"Your A/c XX6034 has Avl Bal INR 8,624.55 and Total Bal INR 8,624.55 as of 12-11-26 09:00. -PNB",False,,,,,,,
+57,"Your HDFC Bank Credit Card x7788 statement is generated. Total amt due: Rs.18,432.00. Min amt due: Rs.920.00. Due date: 28-11-26. Pay via NetBanking or app. Ignore if paid.",False,,,,,,,
+58,"Reminder: Payment of INR 12,650.00 for your ICICI Bank Credit Card XX4005 is due on 25-Nov-26. Minimum due INR 635.00. Please pay on time to avoid late fees.",False,,,,,,,
+59,"Dear Customer, you are eligible for a pre-approved Personal Loan of Rs.5,00,000 from Axis Bank at 10.49% p.a. Avail instantly: https://axisbk.io/pl T&C",False,,,,,,,
+60,"Your loan approved! Rs.2,00,000 will be credited to your account within 10 minutes. Complete KYC now: http://quick-loan.co/apply",False,,,,,,,

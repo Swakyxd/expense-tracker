@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+data/cache.json
+data/sample_results.json
+eval/results/.cache/
+.venv-1/

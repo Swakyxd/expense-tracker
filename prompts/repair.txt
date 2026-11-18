@@ -1,0 +1,14 @@
+Your previous output for the SMS below failed validation.
+
+SMS:
+[{id}] {sms_text}
+
+Your previous output:
+{previous_json}
+
+Errors:
+{error_list}
+
+Re-read the SMS carefully and return a corrected JSON object for this message only.
+Follow all original rules. If a value is not present in the SMS, use null.
+Return ONLY the JSON object.

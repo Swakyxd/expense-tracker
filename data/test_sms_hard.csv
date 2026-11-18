@@ -1,0 +1,25 @@
+id,sms,is_transaction,type,amount,merchant,date,mode,status,category
+201,"Rs.2,000.00 withdrawn at ICICI Bank ATM on 03-Nov-26 from Acct XX219. Charge of Rs.23.60 for exceeding free ATM transactions will be debited separately. Avl Bal Rs.11,540.20",True,debit,2000,,2026-11-03,ATM,success,Cash Withdrawal
+202,"USD 15.49 spent on ICICI Bank Card XX4005 at NETFLIX.COM on 04-Nov-26. Equivalent amount debited: INR 1,309.90. Avl Limit: INR 1,10,041.10",True,debit,1309.90,Netflix,2026-11-04,CARD,success,Entertainment & Subscriptions
+203,"Rs.340 paid to ZOMATO via Paytm UPI on 6 Nov at 8:42 PM. UPI Ref 431087651100. Paytm Payments",True,debit,340,Zomato,2026-11-06,UPI,success,Food & Dining
+204,"Your A/c XX9087 debited by Rs.5,000.00 on 07Nov26; MOHIT ARORA credited (IMPS Ref 631198765432). If not done by you call 1800111109 -SBI",True,debit,5000,Mohit Arora,2026-11-07,NEFT_IMPS,success,Transfers to People
+205,"Standing Instruction executed: Rs.1,499.00 charged to your Axis Bank Card XX8123 for YOUTUBE PREMIUM on 08-11-26. Next charge on 08-12-26.",True,debit,1499,YouTube,2026-11-08,AUTOPAY,success,Entertainment & Subscriptions
+206,"Dear Customer, your UPI txn of Rs.899.00 to MEESHO on 09-Nov-26 was unsuccessful. Rs.899.00 has been credited back to A/c XX219. Ref 631287651234 -ICICI Bank",True,credit,899,Meesho,2026-11-09,UPI,reversed,Refund
+207,"Rs.2,150.00 debited from A/c XX5521 for UPI txn to MAKEMYTRIP could not be processed and will be reversed within 48 hrs. Ref 431787650011 - Axis Bank",True,debit,2150,MakeMyTrip,,UPI,failed,Travel & Transport
+208,"Rs.750.00 debited from A/c XX4417 on 10-11-26 to VPA bharatpe.9087654321@fbpe (GANESH MEDICALS). UPI Ref 431887650022 -HDFC Bank",True,debit,750,Ganesh Medicals,2026-11-10,UPI,success,Health
+209,"INR 1,299.00 spent on ICICI Bank Card XX4005 on 10-Nov-26 at DECATHLON SPORTS IN. Avl Lmt: INR 1,08,",True,debit,1299,Decathlon,2026-11-10,CARD,success,Shopping
+210,"Your A/c XX3390 is credited with Rs.3,200.00 on 11-11-26 by NEFT from ZERODHA BROKING LTD (Ref HDFCN26315998877). Avl Bal Rs.55,510.40 -ICICI Bank",True,credit,3200,Zerodha,2026-11-11,NEFT_IMPS,success,Investments
+211,"Rs 60 paid to RAMESH TEA STALL using BHIM UPI. Aapka balance Rs 2,341.50 hai. Ref 431987650044",True,debit,60,Ramesh Tea Stall,,UPI,success,Food & Dining
+212,"Rs.20,000.00 transferred from A/c XX4417 to own A/c XX8830 via NEFT on 12-11-26. Ref HDFCN26316009988. -HDFC Bank",True,debit,20000,,2026-11-12,NEFT_IMPS,success,Transfers to People
+213,"INR 1,25,000 debited from A/c XX5521 on 13-11-26 towards NEFT to DELHI PUBLIC SCHOOL. Ref AXISN26317004512. Avl Bal INR 2,14,845.10 - Axis Bank",True,debit,125000,Delhi Public School,2026-11-13,NEFT_IMPS,success,Education
+214,"INR 2,640.00 spent on Kotak Debit Card XX9912 at HPCL SRI SAI FUELS on 13/11/2026. Fuel surcharge of INR 26.40 reversed. Avl bal INR 30,465.45",True,debit,2640,HPCL,2026-11-13,CARD,success,Travel & Transport
+215,"ANANYA RAO paid you Rs.850.00 via UPI on 13-11-26. Credited to A/c XX4417. UPI Ref 432087650055",True,credit,850,Ananya Rao,2026-11-13,UPI,success,Transfers to People
+216,"Mandate executed: Rs.299.00 debited from A/c XX4417 for HOTSTAR via UPI AutoPay on 12-11-26. UMN 5d7e11aa@okhdfcbank",True,debit,299,Hotstar,2026-11-12,AUTOPAY,success,Entertainment & Subscriptions
+217,"RAHUL VERMA has requested Rs.1,200.00 from you on Google Pay. Approve or decline the request in the app. Request expires on 14 Nov.",False,,,,,,,
+218,"Your HDFC Bank Credit Card x7788 credit limit has been enhanced to Rs.2,00,000 w.e.f 10-11-26. Enjoy more spending power.",False,,,,,,,
+219,"Premium of Rs.12,480.00 for LIC Policy 884512093 is due on 28-11-2026. Pay online to avoid lapse. Ignore if already paid.",False,,,,,,,
+220,"Your Flipkart order worth Rs.2,399 is out for delivery today. Please keep Rs.2,399 cash ready for Cash on Delivery.",False,,,,,,,
+221,"Beware of fraud! SBI never asks you to scan a QR code to receive money. Customers lost over Rs.4,50,000 to such scams last month. Stay alert. -SBI",False,,,,,,,
+222,"Your FD XX4471 of Rs.50,000.00 will mature on 20-11-26. Maturity proceeds will be credited to A/c XX4417 as per your instructions. -HDFC Bank",False,,,,,,,
+223,"Pay your electricity bill of Rs.1,840 on PhonePe and get a scratch card. Bill due date 18 Nov.",False,,,,,,,
+224,"Your UPI mandate for SPOTIFY INDIA of Rs.119.00 has been successfully revoked. No further debits will be made. -Kotak Bank",False,,,,,,,

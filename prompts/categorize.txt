@@ -1,0 +1,12 @@
+Classify each merchant name into exactly ONE category from this list:
+Food & Dining, Groceries, Travel & Transport, Shopping, Bills & Recharges,
+Entertainment & Subscriptions, Health, Education, Rent & Housing,
+Transfers to People, Investments, Cash Withdrawal, Income, Refund, Other
+
+Rules:
+- A person's name or a personal UPI ID (e.g. "rahul.k@okaxis", "Priya Sharma") → Transfers to People.
+- If you are not reasonably sure, choose "Other". Do not invent new categories.
+- Indian context: e.g. "Blinkit" = Groceries, "BESCOM" = Bills & Recharges, "Rapido" = Travel & Transport.
+
+Return a JSON object mapping each merchant to its category, e.g.
+{"Swiggy": "Food & Dining", "rahul.k@okaxis": "Transfers to People"}

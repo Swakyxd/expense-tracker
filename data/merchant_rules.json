@@ -1,0 +1,12 @@
+{
+  "Food & Dining": ["swiggy", "zomato", "dominos", "mcdonalds", "kfc", "starbucks", "eatsure", "pizza hut", "burger king", "subway", "haldiram", "barbeque nation", "cafe coffee day"],
+  "Groceries": ["blinkit", "zepto", "bigbasket", "dmart", "instamart", "jiomart", "reliance fresh", "more supermarket", "natures basket", "spencer"],
+  "Travel & Transport": ["uber", "ola", "rapido", "irctc", "redbus", "makemytrip", "indigo", "fastag", "metro", "goibibo", "cleartrip", "air india", "namma yatri", "petrol", "indian oil", "hpcl", "bpcl"],
+  "Shopping": ["amazon", "flipkart", "myntra", "ajio", "meesho", "nykaa", "croma", "decathlon", "ikea", "tata cliq", "reliance digital", "lenskart"],
+  "Bills & Recharges": ["jio", "airtel", "vi", "bsnl", "electricity", "bescom", "tata power", "act fibernet", "adani electricity", "mahanagar gas", "indane", "tata play", "broadband", "postpaid", "recharge"],
+  "Entertainment & Subscriptions": ["netflix", "spotify", "hotstar", "prime video", "bookmyshow", "youtube", "pvr", "inox", "sony liv", "zee5", "jiocinema"],
+  "Health": ["apollo", "pharmeasy", "1mg", "netmeds", "practo", "medplus", "cult.fit", "hospital", "pharmacy", "diagnostics"],
+  "Investments": ["zerodha", "groww", "upstox", "sip", "mutual fund", "kuvera", "nps", "ppf", "indmoney"],
+  "Education": ["coursera", "udemy", "unacademy", "college", "university", "byju", "school", "tuition", "physics wallah"],
+  "Rent & Housing": ["nobroker", "rent", "housing society", "maintenance", "magicbricks"]
+}
